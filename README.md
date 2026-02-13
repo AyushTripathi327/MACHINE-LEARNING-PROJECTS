@@ -8,3 +8,4 @@ Author- Ayush Tripathi
 ​Data Preprocessing: Handling categorical variables and missing data.
 ​Feature Scaling: Using StandardScaler to normalize input data for better model performance.
 ​Classification: Predicting binary outcomes (Stay vs. Leave).
+ 
